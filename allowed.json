@@ -1,3 +1,16 @@
 {
-  "allowed_places": [1234567890, 9876543210, 100830624137854]
+  "systems": {
+    "placement": {
+      "allowed_places": [123456789, 100830624137854]
+    },
+    "movement": {
+      "allowed_places": [111111111, 222222222]
+    },
+    "combat": {
+      "allowed_places": [333333333]
+    },
+    "admin": {
+      "allowed_places": [444444444, 555555555]
+    }
+  }
 }
