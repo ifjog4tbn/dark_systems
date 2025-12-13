@@ -1,7 +1,7 @@
 {
   "systems": {
     "placement": {
-      "allowed_places": [123456789, 100830624137854]
+      "allowed_places": [123456789, 1008306241378541]
     },
     "movement": {
       "allowed_places": [111111111, 222222222]
