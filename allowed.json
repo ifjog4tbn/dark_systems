@@ -3,14 +3,17 @@
     "placement": {
       "allowed_places": [123456789, 100830624137854]
     },
-    "movement": {
-      "allowed_places": [111111111, 222222222]
+    "fntdgrouprewards": {
+      "allowed_places": [12345]
     },
-    "combat": {
-      "allowed_places": [333333333]
+    "fntdevolution": {
+      "allowed_places": [12345]
     },
-    "admin": {
-      "allowed_places": [444444444, 555555555]
+    "fntdactualonline": {
+      "allowed_places": [12345]
+    },
+    "fntdtags": {
+      "allowed_places": [12345]
     }
   }
 }
